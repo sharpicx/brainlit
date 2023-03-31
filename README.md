@@ -25,7 +25,7 @@ When i tried to search some texts in the searchbar, it would record the activiti
 
 ![img](https://i.postimg.cc/05M2Whzj/image.png)
 
-Then, i saw something cool that looks like deserialization using json formatted. And, i modified it a little bit weird and had been testing it as well. Well, I'm so curious to make an automated script for this. Because i have to pass my exam :)
+Then i sent it to the repeater and i saw something cool that looks like deserialization using json formatted. And then, i modified it a little bit weird and had been testing it as well. Well, I was so curious to make an automated script for this at that time. Because i have to pass my exam :)
 
 ## GIF
 [![asciicast](https://asciinema.org/a/572540.svg)](https://asciinema.org/a/572540)
