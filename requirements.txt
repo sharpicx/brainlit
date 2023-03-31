@@ -1,0 +1,8 @@
+requests
+os
+argparse
+base64
+json
+urllib
+termcolor
+BeautifulSoup
