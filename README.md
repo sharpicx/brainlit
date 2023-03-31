@@ -18,6 +18,15 @@ Then, because i have a life to work out, I leave that idea.
 
 __Now, i write a small script to scrape brainly.co.id answers to help me learning and studying my school exams. This tool written for personal-use only.__
 
+## Burpsuite
+![img](https://i.postimg.cc/rpmfG1f6/image.png)
+
+When i tried to search some texts in the searchbar, it would record the activities into the burpsuite. Well, i was so attracted because of that.
+
+![img](https://i.postimg.cc/05M2Whzj/image.png)
+
+Then, i saw something cool that looks like deserialization using json formatted. And, i modified it a little bit weird and had been testing it as well. Well, I'm so curious to make an automated script for this. Because i have to pass my exam :)
+
 ## GIF
 [![asciicast](https://asciinema.org/a/572540.svg)](https://asciinema.org/a/572540)
 
