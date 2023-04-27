@@ -4,19 +4,6 @@
 █ ▄▄▀█ ▀▀▄█ ▀▀ ██ ▄█ ██ █ ███ ▄██ █
 █▄▄▄▄█▄█▄▄█▄██▄█▄▄▄█▄██▄█▄▄█▄▄▄██▄█
 ```
-## Prologue
-Before i created this tool, I have been thinking of how i could scrape quora answers. I have searched alot of informations in quora international mode to build a sluggish tool for scraping shits. And there was story that someone had reversed quora iOS and fetch its API. And then, he got permanently banned from quora because he published that thing.
-
-Here are some:
-* <https://www.quora.com/Why-doesnt-Quora-provide-an-API-1?no_redirect=1>
-* <https://www.quora.com/Does-a-Quora-API-exist-for-Python>
-* <https://www.quora.com/Is-there-any-proper-documentation-of-Quora-API-for-developer>
-* <https://edmondlausposts.quora.com/Quora-Extension-API>
-
-Then, because i have a life to work out, I leave that idea.
-
-
-__Now, i write a small script to scrape brainly.co.id answers to help me learning and studying my school exams. This tool written for personal-use only.__
 
 ## Burpsuite
 ![img](https://i.postimg.cc/rpmfG1f6/image.png)
