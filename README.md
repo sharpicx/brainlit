@@ -5,6 +5,11 @@
 █▄▄▄▄█▄█▄▄█▄██▄█▄▄▄█▄██▄█▄▄█▄▄▄██▄█
 ```
 
+> [!CAUTION]
+> This project is no longer maintained because it was originally created as a practice project while I was learning Python.
+>
+> **_sharpicx – 24 June 2026_**
+
 ## Burpsuite
 ![img](https://i.postimg.cc/rpmfG1f6/image.png)
 
